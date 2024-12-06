@@ -1,0 +1,5 @@
+flask==2.0.1
+requests==2.26.0
+cryptography==3.4.7
+pytest==6.2.5
+sqlite3
